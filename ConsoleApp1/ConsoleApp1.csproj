@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="src\Entities\Arus.cs" />
+    <Compile Include="src\Entities\Hero.cs" />
+    <Compile Include="src\Entities\Knight.cs" />
+    <Compile Include="src\Entities\Wizard.cs" />
     <Compile Include="src\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
